@@ -5,7 +5,7 @@ The origin of this calculation has its roots in "A Remarkable Representation of 
 
 The term "reduced Brauer\[Dash]Weyl generators",  refers to a specific set of irreducible generators for certain complex Clifford algebras, particularly in the context of mathematical physics and the study of Dirac spinors. These generators were introduced by E.A. Lord (E. A. Lord. "The Dirac spinor in six dimensions". Mathematical Proceedings of the Cambridge Philosophical Society, vol. 64, pp. 765\[Dash]778, 1968) and are described as "reduced" because they form an irreducible representation of the Clifford algebra   Subscript[\[ScriptCapitalC], 2 n]  from   Subscript[\[ScriptCapitalC], 2 (n-1)] .
 
-Here,  we employ  Lord's  idea of reduced Brauer\[Dash]Weyl generators to extend Dirac's 4x4 gamma matrices into  this notebook's  real tau8  8*8 and  tau16   16*16 matrices,
+Here,  we employ  Lord's  idea of reduced Brauer\[Dash]Weyl generators to extend Dirac's 4x4 gamma matrices into  this notebook's  real tau8  8x8 and  tau16   16x16 matrices,
 which  are  employed  to write  down the 'Dirac Equation  for the Pre-Universe'
 [remember, this is before  the  Big Bang,  and before  the particles  of  the  standard  model  exist ]
   formulated  in  terms  of a 16-component    Overscript[O(4,4), _] spinor \[CapitalPsi]16
