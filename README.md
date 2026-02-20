@@ -1,2 +1,35 @@
 # Pre-Universe
 Quantum description of Pre-gravity, Pre-Big-Bang, with 3-Generations of Einstein-Rosen 2-Plane-Bridges
+
+The origin of this calculation has its roots in "A Remarkable Representation of the 3+2 de Sitter Group" by P.A.M.Dirac, J.Math.Phys.4,901\[Dash]909 (1963). 
+
+The term "reduced Brauer\[Dash]Weyl generators",  refers to a specific set of irreducible generators for certain complex Clifford algebras, particularly in the context of mathematical physics and the study of Dirac spinors. These generators were introduced by E.A. Lord (E. A. Lord. "The Dirac spinor in six dimensions". Mathematical Proceedings of the Cambridge Philosophical Society, vol. 64, pp. 765\[Dash]778, 1968) and are described as "reduced" because they form an irreducible representation of the Clifford algebra   Subscript[\[ScriptCapitalC], 2 n]  from   Subscript[\[ScriptCapitalC], 2 (n-1)] .
+
+Here,  we employ  Lord's  idea of reduced Brauer\[Dash]Weyl generators to extend Dirac's 4*4 gamma matrices into  this notebook's  real tau8  8*8 and  tau16   16*16 matrices,
+which  are  employed  to write  down the 'Dirac Equation  for the Pre-Universe'
+[remember, this is before  the  Big Bang,  and before  the particles  of  the  standard  model  exist ]
+  formulated  in  terms  of a 16-component    Overscript[O(4,4), _] spinor \[CapitalPsi]16
+(\[CapitalPsi]16  AKA 'WAVE FUNCTION OF  the UN-UNIVERSE,' which could possibly be named something more pompous).
+This equation is used to  investigate EINSTEIN AND ROSEN's idea:
+"If one tries to interpret the regular solution (5a)
+in the space of r, 0, ø, t, one arrives at the follow-
+ing conclusion. The four-dimensional space is
+described mathematically by two congruent
+parts or "sheets," corresponding to u>0 and
+u <0, which are joined by a hyperplane r= 2m or
+u=0 in which g vanishes .2 We call such a con-
+nection between the two sheets a "bridge.""
+BibTeX:
+@article{EinsteinRosen1935,author={Einstein,A.and Rosen,N.},title={The Particle Problem in the General Theory of Relativity},journal={Phys.Rev.},volume={48},issue={1},pages={73-- 77},year={1935},publisher={American Physical Society},doi={10.1103/PhysRev.48.73}}
+
+
+Notation:
+Subscript[M, 4,4]=Minkowski spacetime,  signature = {4,4}
+Subscript[\[DoubleStruckCapitalO], 4,4]=split octonion algebra 
+with  vector  and spinor bases:
+o\[Element]Subscript[\[DoubleStruckCapitalO], 4,4]; o =Subscript[eA, j] o^j=Subscript[ea\[Psi]1, j] o\[Psi]1^j=Subscript[ea\[Psi]2, j] (o\[Psi]2^j)   [Cartan's   triality]
+=Subscript[\[Psi]1, j] ea^j=Subscript[ea, j] (\[Psi]2^j)  [restrict  to   Spin(3,4)]
+<Subscript[ea, a],Subscript[ea, b]> = Subscript[\[Sigma], ab]
+<Subscript[eA, A],Subscript[eA, B]> = Subscript[\[Eta], AB]
+{X,EA}\[Element]Subscript[M, 4,4]\[CircleTimes]Subscript[\[DoubleStruckCapitalO], 4,4]
+
